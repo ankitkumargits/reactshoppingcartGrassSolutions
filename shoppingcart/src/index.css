@@ -1,0 +1,20 @@
+header {
+    background-color: blue;
+}
+
+header a{
+    color: white !important;
+}
+#cardItem {
+    display: inline-block;
+}
+#adLogin{
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
+#userLogin{
+    height: 600px;
+    display: flex;
+    align-items: center;
+}
